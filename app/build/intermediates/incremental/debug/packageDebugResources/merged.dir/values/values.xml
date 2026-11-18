@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_gray">#FFF0F5</color>
+    <color name="bg_pink_soft">#FFF0F5</color>
+    <color name="black">#FF000000</color>
+    <color name="orange_text">#E65100</color>
+    <color name="pink_light">#FCE4EC</color>
+    <color name="pink_primary">#EC407A</color>
+    <color name="pink_primary_dark">#C2185B</color>
+    <color name="pink_stats_card">#C2185B</color>
+    <color name="red_error">#D32F2F</color>
+    <color name="teal_light">#FCE4EC</color>
+    <color name="teal_primary">#EC407A</color>
+    <color name="teal_primary_dark">#C2185B</color>
+    <color name="text_dark">#2C1D21</color>
+    <color name="text_gray">#756569</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Quản lý lịch hẹn</string>
+    <style name="Theme.QuanLyLichHen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorPrimaryDark">@color/pink_primary_dark</item>
+        <item name="colorAccent">@color/pink_primary</item>
+        <item name="android:statusBarColor">@color/pink_primary_dark</item>
+    </style>
+</resources>

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_circle_teal.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_circle_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_stats_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_stats_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\layout_activity_add_appointment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\layout\\activity_add_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_badge_gray.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_badge_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_pill_teal.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_pill_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_badge_datetime.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_badge_datetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quanlylichhen.app-debug-40:/layout_activity_appointment_detail.xml.flat",
+        "source": "com.example.quanlylichhen.app-main-42:/layout/activity_appointment_detail.xml"
+    },
+    {
+        "merged": "com.example.quanlylichhen.app-debug-40:/layout_activity_add_appointment.xml.flat",
+        "source": "com.example.quanlylichhen.app-main-42:/layout/activity_add_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_pill_outline_teal.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_pill_outline_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_badge_orange.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_badge_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\layout_activity_appointment_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\layout\\activity_appointment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quanlylichhen.app-debug-40:/layout_item_appointment.xml.flat",
+        "source": "com.example.quanlylichhen.app-main-42:/layout/item_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_edittext.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_bg_pill_red.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\bg_pill_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-debug-40:\\layout_item_appointment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.quanlylichhen.app-main-42:\\layout\\item_appointment.xml"
+    }
+]
